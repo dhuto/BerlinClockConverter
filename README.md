@@ -1,6 +1,6 @@
-# C++ Hello World Project
+# C++ Berlin Clock Project
 
-This project is a simple C++ application that outputs "Hello, World!" to the console.
+This project is a simple C++ application that outputs "Berlin Clock" to the console.
 
 ## Project Structure
 
